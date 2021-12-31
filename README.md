@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xeeban
+- 👋 Hi, I’m @xeeban (Nori Nishigaya)
 - 👀 I’m interested in [Salmon Nation](https://www.salmonnation.net)
 - 🌱 I’m currently learning Haskell and Plutus smart contracts
 - 💞️ I’m looking to collaborate on anything in the Cardano/Catalyst or blockchain space
