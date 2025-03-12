@@ -4,6 +4,11 @@
 ## What I am currently working on
 - [Andamio](https://www.andamio.io/)
 - [ODIN](https://www.odin.eco/)
+## What I am obsessed about
+- e-ink readers and tablets
+ - looking at Boox Palma and Go 10.3 / Supernote Manta
+- decentralized collaboration across geography and timezones
+ - async and habits/rituals that enable better participation
 ## 👀 I’m interested in 
 - Decentralized Collaboration and Governance
 - Teal and Self-managed organizations
