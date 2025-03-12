@@ -6,7 +6,7 @@
 - [ODIN](https://www.odin.eco/)
 ## What I am obsessed about
 - e-ink readers and tablets
-	- looking at Boox Palma and Go 10.3 / Supernote Manta
+	- looking at [Boox Palma](https://shop.boox.com/products/palma2) and [Boox Go 10.3](https://shop.boox.com/products/go103) / [Supernote Manta](https://supernote.com/pages/supernote-manta)
 - decentralized collaboration across geography and timezones
 	- async and habits/rituals that enable better participation
 ## 👀 I’m interested in 
