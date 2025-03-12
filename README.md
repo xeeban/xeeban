@@ -6,9 +6,9 @@
 - [ODIN](https://www.odin.eco/)
 ## What I am obsessed about
 - e-ink readers and tablets
- - looking at Boox Palma and Go 10.3 / Supernote Manta
+	- looking at Boox Palma and Go 10.3 / Supernote Manta
 - decentralized collaboration across geography and timezones
- - async and habits/rituals that enable better participation
+	- async and habits/rituals that enable better participation
 ## 👀 I’m interested in 
 - Decentralized Collaboration and Governance
 - Teal and Self-managed organizations
