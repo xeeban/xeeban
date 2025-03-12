@@ -1,4 +1,4 @@
-@ My Now Page
+# My Now Page
 (last updated: March 12, 2025)
 ## 👋 Hi, I’m @xeeban (Nori Nishigaya)
 ## What I am currently working on
