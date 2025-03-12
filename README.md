@@ -4,7 +4,6 @@
 ## What I am currently working on
 - [Andamio](https://www.andamio.io/)
 - [ODIN](https://www.odin.eco/)
-- [Collaborative Sparks](https://www.collaborativesparks.org)
 ## 👀 I’m interested in 
 - Decentralized Collaboration and Governance
 - Teal and Self-managed organizations
