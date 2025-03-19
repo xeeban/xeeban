@@ -1,6 +1,16 @@
 # My Now Page
 (last updated: March 12, 2025)
 ## 👋 Hi, I’m @xeeban (Nori Nishigaya)
+Welcome to my GitHub profile! It is also my current [Now Page](https://nownownow.com/about). Here, I will keep my current work, interests, inspirations up to date. If anything that you read here resonates, feel free to readh out using any of the "How to Reach Me" methods listed below.
+## About me
+I am dedicated to fostering inclusivity and community, building decentralized governance models, and enabling collaborative decision-making in complex and emergent environments.
+
+I am the founder of [ODIN](https://www.odin.eco), a network of innovators who believe that decentralized innovation networks will replace centralized corporations as the primary way we solve hard problems in the world. ODIN experiments with and mentors evolutionary organizational principles, and creates ways to scale through connecting high-trust spaces so that innovation networks and their members can thrive.
+
+I am also a co-founder of [Andamio](https://www.andamio.io). Andamio’s mission is to facilitate learning, organization, and information sharing to drive the resolution of significant challenges. Focusing on Learning Management, Contributor Onboarding, Emergent Credentials, and Treasury Governance, Andamio uniquely blends blockchain smart contracts and design patterns for decentralized applications using project-based learning methodologies and principles of evolutionary organizations.
+
+In my free time, I enjoy diving deep into the intersection of blockchain, AI, decentralization, bio-region/local re-vitalization, and Integral theory. I am also a practicing Zen Buddhist.
+
 ## What I am currently working on
 - [Andamio](https://www.andamio.io/)
 - [ODIN](https://www.odin.eco/)
@@ -29,6 +39,7 @@
 - [Twitter](https://twitter.com/Xeeban)
 - [SubStack](https://substack.com/@xeeban)
 - Discord: nori.nishigaya
+- [Linked-in](https://www.linkedin.com/in/nishigaya/)
 
 <!---
 xeeban/xeeban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
