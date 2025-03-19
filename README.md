@@ -1,7 +1,7 @@
 # My Now Page
 (last updated: March 12, 2025)
 ## 👋 Hi, I’m @xeeban (Nori Nishigaya)
-Welcome to my GitHub profile! It is also my current [Now Page](https://nownownow.com/about). Here, I will keep my current work, interests, inspirations up to date. If anything that you read here resonates, feel free to readh out using any of the "How to Reach Me" methods listed below.
+Welcome to my GitHub profile! It is also my current [Now Page](https://nownownow.com/about). Here, I will keep my current work, interests, inspirations up to date. If anything that you read here resonates, feel free to reach out using any of the "How to Reach Me" methods listed below.
 ## About me
 I am dedicated to fostering inclusivity and community, building decentralized governance models, and enabling collaborative decision-making in complex and emergent environments.
 
