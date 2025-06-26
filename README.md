@@ -37,6 +37,7 @@ In my free time, I enjoy diving deep into the intersection of blockchain, AI, de
 - How to decentralize onboarding and contribution for communities
 ## 📫 How to reach me
 - [Twitter](https://twitter.com/Xeeban)
+- [BlueSky](https://bsky.app/profile/xeeban.bsky.social)
 - [SubStack](https://substack.com/@xeeban)
 - Discord: nori.nishigaya
 - [Linked-in](https://www.linkedin.com/in/nishigaya/)
