@@ -24,6 +24,7 @@ Currently based in Victoria, BC, Canada (Pacific Time - UTC-8/UTC-7)
 - **[Emergent Praxis](https://emergentpraxis.substack.com/)** — The experimental AI murmuration blog. All about agents, governance-based orchestration, Source Principles, and what happens when humans and AI collaborate as equals.
 - **Murmurations.ai** — Coming soon. A secret project exploring agent orchestration and governance. Stay tuned.
 - **[Zenwest Buddhist Society](https://zenwest.ca/)** — Chairman of the Board. Currently facilitating strategic planning for a scaled-down, volunteer-run sangha.
+- **[Reviving old hardware as a "writer's deck"](https://github.com/xeeban/macbook-t1-touchbar-linux)** — Turning a 2016 MacBook Pro into a distraction-free Arch Linux writing machine. Wrote up how I lit the T1 Touch Bar on modern kernels — root cause, the patch, and an agent-runnable spec you can hand to Claude Code.
 
 ## 👀 What I am obsessed about
 - **The human's role in an AI world** — I'm experimenting heavily with what it means to be human when AI can do more and more of what we used to do. Five levels of AI engineering maturity, agentic workflows, and the question of where human agency actually matters. This is what keeps me up at night.
