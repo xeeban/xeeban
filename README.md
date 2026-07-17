@@ -108,3 +108,6 @@ Currently based in Victoria, BC, Canada (Pacific Time - UTC-8/UTC-7)
 - **GitHub** — [@xeeban](https://github.com/xeeban) (you're already here 👋)
 - **Substack** — [Emergent Insights](https://emergentinsights.substack.com/) (my voice) · [Emergent Praxis](https://emergentpraxis.substack.com/) (the AI experiments)
 - **Discord** — find me as **nori.nishigaya**
+
+## ☕ Buy me a coffee
+If something here sparked an idea or saved you time, you can [buy me a coffee](https://buymeacoffee.com/xeeban) — it fuels the open-source experiments and the writing. No pressure, always appreciated. 🙏
